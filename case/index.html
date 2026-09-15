@@ -1,0 +1,136 @@
+<!doctype html>
+<!-- Перехідна сторінка справи. Публікується на GitHub Pages поруч зі знімком каталогу:
+     tools/publish_case_page.sh → https://ne-urugal.github.io/pozytsia-snapshot/case/
+     (посилання формує mobile/lib/features/decisions/decisions_provider.dart, caseAppUrl).
+     Пробує відкрити pozytsia:///cases?number=… і лишається корисною, якщо застосунку немає
+     (ТЗ погоджено 2026-09-25). Без CDN, без лічильників і аналітики, без cookie. -->
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Позиція — справа</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --text: #1c1b1f;
+    --muted: #5f5d66;
+    --accent: #3f4a1c;
+    --rule: #dcd9e0;
+    --header-bg: #4b5320;
+    --header-text: #f4f5ec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141316;
+      --text: #e6e1e6;
+      --muted: #a9a5ad;
+      --accent: #9fd1a8;
+      --rule: #38363c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  header {
+    background: var(--header-bg);
+    color: var(--header-text);
+    padding: 28px 20px;
+    text-align: center;
+  }
+  header h1 { margin: 0; font-size: 1.4rem; font-weight: 600; }
+  main { max-width: 480px; margin: 0 auto; padding: 24px 20px 48px; }
+  p { margin: 0 0 16px; overflow-wrap: anywhere; }
+  .case-number { font-size: 1.2rem; font-weight: 600; }
+  .muted { color: var(--muted); }
+  .actions { display: flex; flex-direction: column; gap: 12px; margin-top: 8px; }
+  a.button {
+    display: block;
+    padding: 14px 16px;
+    border-radius: 12px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+  }
+  a.primary { background: var(--accent); color: var(--bg); }
+  a.secondary { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<header><h1>Позиція</h1></header>
+<main>
+  <p id="case-line" class="case-number" hidden></p>
+  <p id="explainer" class="muted" hidden></p>
+  <div class="actions">
+    <a id="open-app" class="button primary" hidden>Відкрити в застосунку</a>
+    <a id="open-edrsr" class="button secondary" hidden>Відкрити рішення в ЄДРСР</a>
+    <a id="install-app" class="button secondary" hidden>Встановити застосунок</a>
+  </div>
+</main>
+<script>
+(function () {
+  // Замовник впише адресу сторінки Google Play після публікації застосунку.
+  var INSTALL_URL = '';
+
+  function param(name) {
+    try {
+      return new URLSearchParams(window.location.search).get(name);
+    } catch (e) {
+      return null;
+    }
+  }
+
+  // Номер справи ЄДРСР: цифри, «/», «-» і пробіли, коротший за 40 символів.
+  function validNumber(value) {
+    return typeof value === 'string' &&
+      value.length > 0 && value.length < 40 &&
+      /^[0-9/\- ]+$/.test(value);
+  }
+
+  // doc_id ЄДРСР — лише цифри.
+  function validDoc(value) {
+    return typeof value === 'string' && /^[0-9]+$/.test(value);
+  }
+
+  var number = validNumber(param('number')) ? param('number') : null;
+  var doc = validDoc(param('doc')) ? param('doc') : null;
+
+  var caseLine = document.getElementById('case-line');
+  var explainer = document.getElementById('explainer');
+  var openApp = document.getElementById('open-app');
+  var openEdrsr = document.getElementById('open-edrsr');
+  var installApp = document.getElementById('install-app');
+
+  if (number) {
+    caseLine.textContent = 'Справа № ' + number;
+    caseLine.hidden = false;
+    openApp.href = 'pozytsia:///cases?number=' + encodeURIComponent(number);
+    openApp.hidden = false;
+  } else {
+    explainer.textContent = 'Це посилання на справу в застосунку «Позиція».';
+    explainer.hidden = false;
+  }
+
+  if (doc) {
+    openEdrsr.href = 'https://reyestr.court.gov.ua/Review/' + doc;
+    openEdrsr.hidden = false;
+  }
+
+  if (INSTALL_URL) {
+    installApp.href = INSTALL_URL;
+    installApp.hidden = false;
+  }
+
+  // Одна автоматична спроба; без повторів, таймерів чи підміни історії — щоб не ламати «назад».
+  if (number) {
+    window.location.href = openApp.href;
+  }
+})();
+</script>
+</body>
+</html>

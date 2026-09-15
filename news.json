@@ -1,0 +1,906 @@
+{
+  "format": 1,
+  "generated_at": "2026-10-05T11:01:13+03:00",
+  "items": [
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "Тарас Тарасенко: Процедура повернення з полону наших військовослужбовців постійно вдосконалюється, щоб забезпечити їм максимальну підтримку",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/news_fr/275720.html",
+      "published_at": "2026-10-05T10:37",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Тетяна Кірієнко виступила на Всеукраїнському волонтерсько-молодіжному форумі та розповіла про системний розвиток волонтерства",
+      "summary": "За роки війни волонтерство стало однією з опор нашої стійкості. Волонтери часто першими бачать потребу і першими реагують на неї — підтримують наших захисників і захисниць, внутрішньо переміщених осіб, людей, постраждалих від війни, та громади, які зазнали серйозних випробувань.Про розвиток…",
+      "url": "https://www.kmu.gov.ua/news/tetiana-kiriienko-vystupyla-na-vseukrainskomu-volontersko-molodizhnomu-forumi-ta-rozpovila-pro-systemnyi-rozvytok-volonterstva",
+      "published_at": "2026-10-05T10:23",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Україна та Німеччина обговорили посилення української ППО",
+      "summary": "Міністр оборони України Євгеній Хмара провів зустріч з Федеральним канцлером Німеччини Фрідріхом Мерцом.Очільник Міноборони розповів про те, що відбувається на полі бою, плани росії щодо мобілізації, виклики, з якими сьогодні стикається Україна. Зокрема, йшлося про реактивні дрони та балістику…",
+      "url": "https://www.kmu.gov.ua/news/ukraina-ta-nimechchyna-obhovoryly-posylennia-ukrainskoi-ppo",
+      "published_at": "2026-10-04T21:00",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Сергій Корецький: Уряд вдосконалює правову базу, щоб судмедекспертиза в регіонах працювала швидше і якісніше",
+      "summary": "На засіданні Координаційної ради з питань захисту прав ветеранів та їхніх родин, полонених і зниклих безвісти визначили першочергові кроки для покращення системи ідентифікації тіл загиблих захисників і захисниць. Про це повідомив Прем’єр-міністр Сергій Корецький. «До середини жовтня Уряд ухвалить…",
+      "url": "https://www.kmu.gov.ua/news/serhii-koretskyi-uriad-vdoskonaliuie-pravovu-bazu-shchob-sudmedekspertyza-v-rehionakh-pratsiuvala-shvydshe-i-iakisnishe",
+      "published_at": "2026-10-02T21:52",
+      "image_url": null
+    },
+    {
+      "source": "ukurier",
+      "source_name": "Урядовий кур'єр",
+      "title": "Майбутні гаранти безпеки і миру",
+      "summary": "У День захисників і захисниць України вихованці військових та безпекових ліцеїв із різних регіонів склали клятву ліцеїста. Президент Володимир Зеленський привітав молодь і наголосив на їхній майбутній ролі у зміцненні безпеки держави.",
+      "url": "https://ukurier.gov.ua/uk/news/maybutni-haranty-bezpeky-i-myru/",
+      "published_at": "2026-10-02T21:05",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "120 тисяч гривень на авто для ветеранів та нові рішення для «Ветеранського спорту» — Руслан Приходько в ефірі телемарафону «Єдині новини»",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/120-tisyach-griven-na-avto-dlya-veteraniv-ta-novi-rishennya-dlya-veteranskogo-sportu--ruslan-prihodko-v-efiri-telemarafonu-edini-novini",
+      "published_at": "2026-10-02T16:36",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-10-02_at_15.29.36.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Програма \"Ветеранський спорт” не закривається, — Руслан Приходько",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/rozyasnennya-schodo-programi-veteranskiy-sport-1",
+      "published_at": "2026-10-02T15:02",
+      "image_url": "https://mva.gov.ua/media/1/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0__%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86_%D1%81%D0%BF%D0%BE%D1%80%D1%82__%D0%BD%D0%B5_%D0%B7%D0%B0%D0%BA%D1%80%D0%B8%D0%B2%D0%B0%D1%94%D1%82%D1%8C%D1%81%D1%8F.jpg_1.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Уряд спрямовує понад 50 млрд грн на виплати військовослужбовцям та їхнім родинам",
+      "summary": "Уряд спрямовує понад 50 млрд грн на забезпечення виплат військовослужбовцям та членам їхніх родин. Про це повідомив Прем’єр-міністр України Сергій Корецький.Кошти перерозподіляються з резерву для сектору безпеки і оборони. Це дозволить провести у жовтні виплати своєчасно та в повному обсязі.«Попри…",
+      "url": "https://www.kmu.gov.ua/news/uriad-spriamovuie-ponad-50-mlrd-hrn-na-vyplaty-viiskovosluzhbovtsiam-ta-ikhnim-rodynam",
+      "published_at": "2026-10-02T14:57",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Презентація результатів дослідження про працевлаштування ветеранів та ветеранок",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/6-zhovtnya-rozpovimo-pro-1",
+      "published_at": "2026-10-02T14:13",
+      "image_url": "https://mva.gov.ua/media/1/831533229_2096206814598860_7702348480664861215_n.jpeg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "Ірина Борзова: Підтримки наших ветеранів та ветеранок зростає як із боку держави, так і з боку міжнародних партнерів",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/news_fr/275696.html",
+      "published_at": "2026-10-02T13:47",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "242 медалі та беззаперечне лідерство: збірна України тріумфально виступила на Strong Spirit’s Games — 2026",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/242-medali-ta-bezzaperechne-liderstvo-zbirna-ukraini-triumfalno-vistupila-na-strong-spirits-games--2026",
+      "published_at": "2026-10-02T12:07",
+      "image_url": "https://mva.gov.ua/media/1/DSC01699_-_2K_JPEG.jpg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "«Кава від ветерана»: як підполковник ДШВ Петро Опанасюк відкрив кав’ярню 24/7 на Житомирщині",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/kava-vid-veterana-yak-pidpolkovnik-dshv-petro-opanasuk-vidkriv-kavyarnu-247-na-zhitomirschini",
+      "published_at": "2026-10-02T11:25",
+      "image_url": "https://mva.gov.ua/media/1/_%D0%9A%D0%B0%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%B0_.jpg.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Ветеранська література: Михайло Цимбалюк «Калібри любови»",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/veteranska-literatura-39",
+      "published_at": "2026-10-02T11:13",
+      "image_url": "https://mva.gov.ua/media/1/%D0%92%D1%96%D0%B8%CC%86%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg_5.jpeg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "Підтримка ветеранів. Важливе за тиждень",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/news_kom/275687.html",
+      "published_at": "2026-10-02T11:12",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Запрошуємо ветеранів та військовослужбовців долучитися до Всеукраїнських онлайн-змагань «Сила Сердець»!",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/zaproshuemo-veteraniv-ta-viyskovosluzhbovtsiv-doluchitisya-do-vseukrainskih-onlayn-zmagan-sila-serdets",
+      "published_at": "2026-10-02T09:25",
+      "image_url": "https://mva.gov.ua/media/1/%D0%92%D1%81%D0%B5%D1%83%D0%BA%D1%80%D0%B0%D1%96%CC%88%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD-%D0%B7%D0%BC%D0%B0%D0%B3%D0%B0%D0%BD%D0%BD%D1%8F__%D0%A1%D0%B8%D0%BB%D0%B0_%D0%A1%D0%B5%D1%80%D0%B4%D0%B5%D1%86%D1%8C__%D0%B4%D0%BB%D1%8F_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%96%D0%B2_%D1%82%D0%B0_%D0%B2%D1%96%D0%B8%CC%86%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%BE%D0%B2%D1%86%D1%96%D0%B2.jpg.jpeg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "У Сумах ДБР повідомило про підозру військовослужбовцю, який збив пішохода на переході",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/u-sumah-dbr-povidomilo-pro-pidozru-vijskovosluzhbovcyu-yakij-zbiv-pishohoda-na-perehodi",
+      "published_at": "2026-10-02",
+      "image_url": null
+    },
+    {
+      "source": "ukurier",
+      "source_name": "Урядовий кур'єр",
+      "title": "Вдячність усім, хто носить на плечах нашу Незалежність",
+      "summary": "Президент Володимир Зеленський та Прем’єр­міністр Сергій Корецький привітали українських воїнів із Днем захисників і захисниць",
+      "url": "https://ukurier.gov.ua/uk/articles/vdyachnist-usim-khto-nosyt-na-plechakh-nashu-nezalezhnist/",
+      "published_at": "2026-10-01T21:00",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Мінсоцполітики: Законопроєкт про Базову соціальну допомогу підтримано профільним комітетом Верховної Ради та рекомендовано до прийняття у другому читанні",
+      "summary": "Комітет Верховної Ради України з питань соціальної політики та захисту прав ветеранів розглянув поправки народних депутатів і підтримав до другого читання урядовий законопроєкт про запровадження Базової соціальної допомоги (БСД).Проходження другого читання — це ключовий етап перед винесенням…",
+      "url": "https://www.kmu.gov.ua/news/minsotspolityky-zakonoproiekt-pro-bazovu-sotsialnu-dopomohu-pidtrymano-profilnym-komitetom-verkhovnoi-rady-ta-rekomendovano-do-pryiniattia-u-druhomu-chytanni",
+      "published_at": "2026-10-01T17:24",
+      "image_url": null
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "У Михайлівському Золотоверхому соборі вшанували пам’ять полеглих Захисників та Захисниць України",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/Top-novyna/275683.html",
+      "published_at": "2026-10-01T16:48",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Реєструйтеся на Всеукраїнські Ігри Нескорених — відбір на Invictus Games Birmingham 2027",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/reestruytesya-na-vseukrainski-igri-neskorenih--vidbir-na-invictus-games-birmingham-2027",
+      "published_at": "2026-10-01T16:13",
+      "image_url": "https://mva.gov.ua/media/1/01.png"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Безоплатне протезування для ветеранів та ветеранок у мережі центрів протезування, ортезування та реабілітації «Без Обмежень»",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/bezoplatne-protezuvannya-dlya-veteraniv-ta-veteranok-u-merezhi-tsentriv-protezuvannya-ortezuvannya-ta-reabilitatsii-bez-obmezhen",
+      "published_at": "2026-10-01T15:52",
+      "image_url": "https://mva.gov.ua/media/1/ZUB_4233.jpg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Україна прагне закріпити ветеранську політику серед постійних пріоритетів співпраці з Радою Європи та перевести європейські стандарти у конкретні послуги для ветеранів й ветеранок",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/ukraina-pragne-zakripiti-veteransku-politiku-sered-postiynih-prioritetiv-spivpratsi-z-radou-evropi-ta-perevesti-evropeyski-standarti-u-konkretni-poslugi-dlya-veteraniv-y-veteranok",
+      "published_at": "2026-10-01T15:08",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-10-01_at_10.38.13.jpeg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "У Парламенті вшанували пам’ять полеглих Захисників і Захисниць України",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/Top-novyna/275675.html",
+      "published_at": "2026-10-01T14:34",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Наша незалежність — ціна безсмертного подвигу: Мінветеранів вшанувало пам’ять полеглих Захисників та Захисниць України",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/nasha-nezalezhnist--tsina-bezsmertnogo-podvigu-minveteraniv-vshanuvalo-pamyat-poleglih-zahisnikiv-ta-zahisnits-ukraini",
+      "published_at": "2026-10-01T11:07",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-10-01_at_10.38.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Мінветеранів: Підтримано законопроєкт щодо отримання часткової компенсації на придбання автомобіля для ветеранів з інвалідністю внаслідок війни",
+      "summary": "Профільний комітет Верховної Ради України підтримав законопроєкт № 15433, який передбачає право на отримання часткової компенсації на придбання автомобіля для ветеранів з інвалідністю внаслідок війни.На першому етапі скористатися програмою зможуть ветерани та ветеранки з інвалідністю I групи. За…",
+      "url": "https://www.kmu.gov.ua/news/minveteraniv-pidtrymano-zakonoproiekt-shchodo-otrymannia-chastkovoi-kompensatsii-na-prydbannia-avtomobilia-dlia-veteraniv-z-invalidnistiu-vnaslidok-viiny",
+      "published_at": "2026-10-01T10:34",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "У День захисників і захисниць Сергій Корецький висловив вдячність усім, завдяки кому Україна живе, бореться і має майбутнє",
+      "summary": "З нагоди Дня захисників і захисниць Премʼєр-міністр Сергій Корецький висловив вдячність усім, завдяки кому Україна живе, бореться і має майбутнє:«Тим, хто тримає позиції на передовій і захищає наше небо. Тим, хто працює з артилерією і дронами, веде розвідку, забезпечує зв’язок і логістику, евакуює…",
+      "url": "https://www.kmu.gov.ua/news/u-den-zakhysnykiv-i-zakhysnyts-serhii-koretskyi-vyslovyv-vdiachnist-usim-zavdiaky-komu-ukraina-zhyve-boretsia-i-maie-maibutnie",
+      "published_at": "2026-10-01T09:46",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "1 жовтня — День Захисників та Захисниць України",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/1-zhovtnya--den-zahisnikiv-ta-zahisnits-ukraini",
+      "published_at": "2026-10-01T09:42",
+      "image_url": "https://mva.gov.ua/media/1/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%B8%D0%BA%D1%96%D0%B2.jpg.jpeg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Знімали з розшуку за $3 тисячі та фіктивно «мобілізували»: на Вінниччині судитимуть трьох посадовців ТЦК",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/znimali-z-rozshuku-za-3-tisyachi-ta-fiktivno-mobilizuvali-na-vinnichchini-suditimut-troh-posadovciv-tck",
+      "published_at": "2026-10-01",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Жовтневий етап програми «Ветеранський спорт» не стартуватиме – Мінветеранів працює над її продовженням у 2027 році",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/zhovtneviy-etap-programi-veteranskiy-sport-ne-startuvatime--minveteraniv-pratsue-nad-ii-prodovzhennyam-u-2027-rotsi",
+      "published_at": "2026-09-30T20:40",
+      "image_url": "https://mva.gov.ua/media/1/_%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B8%CC%86_%D1%81%D0%BF%D0%BE%D1%80%D1%82__%D0%BD%D0%B5_%D1%81%D1%82%D0%B0%D1%80%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D0%BC%D0%B5.jpg.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Важливий крок для підвищення мобільності ветеранів й ветеранок з інвалідністю",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vazhliviy-krok-dlya-pidvischennya-mobilnosti-veteraniv-y-veteranok-z-invalidnistu",
+      "published_at": "2026-09-30T18:42",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-30_at_18.35.31.jpeg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "Нові можливості для ветеранів та ветеранок: в Апараті Верховної Ради України розпочалася програма стажування",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/Top-novyna/275662.html",
+      "published_at": "2026-09-30T17:27",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Мінветеранів і Johanniter обговорили спільний проєкт підтримки ветеранів, ветеранок та їхніх родин",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/minveteraniv-i-johanniter-obgovorili-spilniy-proekt-pidtrimki-veteraniv-veteranok-ta-ihnih-rodin",
+      "published_at": "2026-09-30T16:28",
+      "image_url": "https://mva.gov.ua/media/1/DSC05398.jpg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Нагадуємо, що сьогодні останній день, аби зареєструватися на «ГАРТ 2026»",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/nagaduemo-scho-sogodni-ostanniy-den-abi-zareestruvatisya-na-gart-2026",
+      "published_at": "2026-09-30T14:43",
+      "image_url": "https://mva.gov.ua/media/1/2_1.png"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "На фінішній прямій: у Кривому Розі готують до відкриття новий державний Ветеранський простір",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/na-finishniy-pryamiy-u-krivomu-rozi-gotuut-do-vidkrittya-noviy-derzhavniy-veteranskiy-prostir",
+      "published_at": "2026-09-30T13:03",
+      "image_url": "https://mva.gov.ua/media/1/P3922970_1.JPG"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "«Безбар’єрність. Вивчені уроки»: Віталій Кім презентував результати та подальшу трансформацію флагманських проєктів Мінветеранів на засіданні Національної Ради безбар’єрності",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/bezbarernist-vivcheni-uroki-vitaliy-kim-prezentuvav-rezultati-ta-podalshu-transformatsiu-flagmanskih-proektiv-minveteraniv-na-zasidanni-natsionalnoi-radi-bezbarernosti",
+      "published_at": "2026-09-30T10:33",
+      "image_url": "https://mva.gov.ua/media/1/827110381_1617918862980478_34422931895968181_n.jpeg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "Засідання Комітету з питань нацбезпеки: бюджетні пріоритети для оборони, стипендії курсантам та відзначення військовослужбовців та фахівців",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/news_kom/275652.html",
+      "published_at": "2026-09-30T10:26",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Україна закликає міжнародну спільноту посилити роботу для повернення українських дітей, цивільних та військовополонених",
+      "summary": "Канада, Україна та Норвегія проводять Другу міжнародну конференцію з питань повернення українських дітей, затриманих цивільних і військовополонених Pathways to Peace. 28–29 вересня представники держав та міжнародних організацій зібралися в Торонто, щоб оцінити прогрес, досягнутий після першої…",
+      "url": "https://www.kmu.gov.ua/news/ukraina-zaklykaie-mizhnarodnu-spilnotu-posylyty-robotu-dlia-povernennia-ukrainskykh-ditei-tsyvilnykh-ta-viiskovopolonenykh",
+      "published_at": "2026-09-30T10:05",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Ветеранська політика України в центрі уваги Європи: представлено новий План дій Ради Європи для України на 2027-2030 роки",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/veteranska-politika-ukraini-v-tsentri-uvagi-evropi-predstavleno-noviy-plan-diy-radi-evropi-dlya-ukraini-na-2027-2030-roki",
+      "published_at": "2026-09-30T09:40",
+      "image_url": "https://mva.gov.ua/media/1/%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D1%8E%D1%94%D0%BC%D0%BE_%D0%BC%D1%96%D0%B6%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D1%87%D1%83_%D0%B2%D0%B7%D0%B0%D1%94%D0%BC%D0%BE%D0%B4%D1%96%D1%8E_%D1%83_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D1%96%D0%B8%CC%86_%D0%BF%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D1%86%D1%96_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%96%D0%B2__%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D0%BE%D0%BA_%D1%82%D0%B0_%D1%96%CC%88%D1%85%D0%BD%D1%96%D1%85_%D1%81%D1%96%D0%BC%D0%B5%D0%B8%CC%86.jpg_1.jpeg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Понад 15 тисяч літрів пального викрали у прикордонників на Чернігівщині: ДБР передало провадження до суду (ВІДЕО)",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/ponad-15-tisyach-litriv-palnogo-vikrali-u-prikordonnikiv-na-chernigivshhini-dbr-peredalo-provadzhennya-do-sudu",
+      "published_at": "2026-09-30",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Віталій Кім обговорив з очільницею EUAM Корнелією Тейлор можливості розширення співпраці у сфері ветеранської політики",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vitaliy-kim-obgovoriv-z-ochilnitseu-euam-kornelieu-teylor-mozhlivosti-rozshirennya-spivpratsi-u-sferi-veteranskoi-politiki",
+      "published_at": "2026-09-29T13:48",
+      "image_url": "https://mva.gov.ua/media/1/DSC05366_1.jpg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Разом із “Новою поштою” наближаємо адмінпослуги до ветеранів, ветеранок та їхніх сімей",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/razom-iz-novou-poshtou-nablizhaemo-adminposlugi-do-veteraniv-veteranok-ta-ihnih-simey-17",
+      "published_at": "2026-09-29T11:10",
+      "image_url": "https://mva.gov.ua/media/1/709054182_1315149544130535_3642981992298029390_n_1.jpg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "2,5 тисячі доларів за видалення з «Оберегу»: на Тернопільщині судитимуть підполковника ТЦК",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/2-5-tisyachi-dolariv-za-vidalennya-z-oberegu-na-ternopilshhini-suditimut-pidpolkovnika-tck",
+      "published_at": "2026-09-29",
+      "image_url": null
+    },
+    {
+      "source": "ukurier",
+      "source_name": "Урядовий кур'єр",
+      "title": "Умови протезування оновили",
+      "summary": "Уряд оновлює умови протезування для людей зі складними та множинними ампутаціями.",
+      "url": "https://ukurier.gov.ua/uk/news/umovy-protezuvannya-onovyly/",
+      "published_at": "2026-09-28T21:15",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Міноборони усуває практику передчасного припинення виплат родинам зниклих безвісти",
+      "summary": "Міністерство оборони України зобов'язало всі військові частини виплачувати грошове забезпечення військовослужбовців, зниклих безвісти, доти, доки не з'явиться визначена законом підстава для припинення виплат: рішення суду про визнання безвісно відсутнім або актовий запис про смерть.Припиняти…",
+      "url": "https://www.kmu.gov.ua/news/minoborony-usuvaie-praktyku-peredchasnoho-prypynennia-vyplat-rodynam-znyklykh-bezvisty",
+      "published_at": "2026-09-28T16:27",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Мінветеранів планує запустити новий напрям – сімейну реабілітацію",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/u-proekti-derzhbudzhetu-na-2027-rik-na-veteransku-politiku-peredbacheno-205-mlrd-grn--na-3-mlrd-bilshe-nizh-tsogo-roku-1",
+      "published_at": "2026-09-28T15:54",
+      "image_url": "https://mva.gov.ua/media/1/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2026-09-28_155133.png"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "У Клевані обговорили запуск проєкту з комплексної психосоціальної допомоги Захисникам та їхнім родинам",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/u-klevani-obgovorili-zapusk-proektu-z-kompleksnoi-psihosotsialnoi-dopomogi-zahisnikam-ta-ihnim-rodinam",
+      "published_at": "2026-09-28T14:25",
+      "image_url": "https://mva.gov.ua/media/1/%D0%9A%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D1%8C_%D0%B3%D0%BE%D1%81%D0%BF%D1%96%D1%82%D0%B0%D0%BB%D1%8C.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Віталій Кім: ветеран має отримувати послугу, а не ходити по кабінетах",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vitaliy-kim-veteran-mae-otrimuvati-poslugu-a-ne-hoditi-po-kabinetah",
+      "published_at": "2026-09-28T13:06",
+      "image_url": "https://mva.gov.ua/media/1/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA_%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2026-09-28_130549.png"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Віталій Кім долучився до третього навчального табору для фахівців із супроводу ветеранів",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vitaliy-kim-doluchivsya-do-tretogo-navchalnogo-taboru-dlya-fahivtsiv-iz-suprovodu-veteraniv",
+      "published_at": "2026-09-28T11:44",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-28_at_09.14.09__1__1.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Україна на конференції OFDeF представила партнерам ключові потреби Сил оборони",
+      "summary": "Заступник Міністра оборони України з питань європейської інтеграції Сергій Боєв взяв участь у конференції Operational Force Development Framework (OFDeF), яка є важливим міжнародним майданчиком для координації оборонної підтримки України з боку міжнародних партнерів.Також на заході були присутні…",
+      "url": "https://www.kmu.gov.ua/news/ukraina-na-konferentsii-ofdef-predstavyla-partneram-kliuchovi-potreby-syl-oborony",
+      "published_at": "2026-09-28T11:43",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Нагадування: Завтра, 29 вересня, о 18:00 завершується прийом заявок на конкурс «ВАРТО: КРОК ВПЕРЕД»",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/nagaduvannya-zavtra-29-veresnya-o-1800-zavershuetsya-priyom-zayavok-na-konkurs-varto-krok-vpered",
+      "published_at": "2026-09-28T09:58",
+      "image_url": "https://mva.gov.ua/media/1/%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%BA%D0%B0_%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%81%D1%82%D0%B2%D0%B0.jpg.jpeg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Фіктивний лікарняний і понад 800 тис. грн виплат: військовослужбовця судитимуть за ухилення від служби",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/fiktivnij-likarnyanij-i-ponad-800-tis.-grn-viplat-vijskovosluzhbovcya-suditimut-za-uhilennya-vid-sluzhbi",
+      "published_at": "2026-09-28",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "«Від одного кабінету до сучасної клініки»: як ветеран Святослав Григорійчук розвиває Private Clinic у Львові",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vid-odnogo-kabinetu-do-suchasnoi-kliniki-yak-veteran-svyatoslav-grigoriychuk-rozvivae-private-clinic-u-lvovi",
+      "published_at": "2026-09-25T15:04",
+      "image_url": "https://mva.gov.ua/media/1/_%D0%92%D1%96%D0%B4_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82%D1%83_%D0%B4%D0%BE_%D1%81%D1%83%D1%87%D0%B0%D1%81%D0%BD%D0%BE%D1%96%CC%88_%D0%BA%D0%BB%D1%96%D0%BD%D1%96%D0%BA%D0%B8_.jpg.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Уряд оновлює умови протезування для людей зі складними та множинними ампутаціями",
+      "summary": "Уряд оновлює умови протезування для людей зі складними та множинними ампутаціями. Про це повідомив Прем’єр-міністр України Сергій Корецький.«Збільшуємо до чотирьох місяців строк авансування виробників протезів у межах державної програми. Для людини протезування за держпрограмою залишається…",
+      "url": "https://www.kmu.gov.ua/news/uriad-onovliuie-umovy-protezuvannia-dlia-liudei-zi-skladnymy-ta-mnozhynnymy-amputatsiiamy",
+      "published_at": "2026-09-25T13:42",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Підтримка ветеранського підприємництва та розвиток сімейної справи у Запоріжжі",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/pidtrimka-veteranskogo-pidpriemnitstva-ta-rozvitok-simeynoi-spravi-u-zaporizhzhi",
+      "published_at": "2026-09-25T11:54",
+      "image_url": "https://mva.gov.ua/media/1/DSC08031_1.JPG"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "1️⃣5️⃣2️⃣8️⃣— Єдина ветеранська лінія Міністерства у справах ветеранів України",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/1528-edina-veteranska-liniya-ministerstva-u-spravah-veteraniv-ukraini",
+      "published_at": "2026-09-25T09:12",
+      "image_url": "https://mva.gov.ua/media/1/774832535_3550829648408116_3005865101765965086_n.jpg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Затримали на першому «клієнті»: ДБР викрило нацгвардійця та його спільника, які планували заробляти на незаконному переправленні чоловіків до Словаччини",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/zatrimali-na-pershomu-klienti-dbr-vikrilo-nacgvardijcya-ta-jogo-spilnika-yaki-planuvali-zaroblyati-na-nezakonnomu-perepravlenni-cholovikiv-do-slovachchini",
+      "published_at": "2026-09-25",
+      "image_url": null
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "За матеріалами ДБР судитимуть посадовця заповідника зі спільниками, які допомагали військовозобов’язаним виїхати до Білорусі (ВІДЕО)",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/za-materialami-dbr-suditimut-posadovcya-zapovidnika-za-spilnikami-yaki-dopomagali-vijskovozobovyazanim-viihati-do-bilorusi",
+      "published_at": "2026-09-25",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Віталій Кім відвідав Запоріжжя: новий простір турботи, розвиток бізнесу та комплексна підтримка ветеранської спільноти у прифронтовому регіоні",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vitaliy-kim-vidvidav-zaporizhzhya-noviy-prostir-turboti-rozvitok-biznesu-ta-kompleksna-pidtrimka-veteranskoi-spilnoti-u-prifrontovomu-regioni",
+      "published_at": "2026-09-24T19:05",
+      "image_url": "https://mva.gov.ua/media/1/DSC07839.JPG"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Міноборони не оскаржуватиме судові рішення у справах родин загиблих і зниклих безвісти військових",
+      "summary": "Міністерство оборони не оскаржуватиме судові рішення в окремих категоріях справ, пов’язаних із загибеллю або зникненням безвісти військовослужбовця.Відмова від безперспективного оскарження дозволить скоротити час між ухваленням судового рішення та оформленням передбачених законодавством виплат…",
+      "url": "https://www.kmu.gov.ua/news/minoborony-ne-oskarzhuvatyme-sudovi-rishennia-u-spravakh-rodyn-zahyblykh-i-znyklykh-bezvisty-viiskovykh",
+      "published_at": "2026-09-24T16:00",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Розбудова ветеранської інфраструктури триває: на Запоріжжі відкрили перший Простір турботи про ветеранів та ветеранок",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/rozbudova-veteranskoi-infrastrukturi-trivae-na-zaporizhzhi-vidkrili-pershiy-prostir-turboti-pro-veteraniv-ta-veteranok",
+      "published_at": "2026-09-24T15:55",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-24_at_14.22.49.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Змагання «ГАРТ» у листопаді стануть відбором національної команди на Air Force Trials 2027. Як зареєструватися",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/zmagannya-gart-u-listopadi-stanut-vidborom-natsionalnoi-komandi-na-air-force-trials-2027-yak-zareestruvatisya",
+      "published_at": "2026-09-24T10:05",
+      "image_url": "https://mva.gov.ua/media/1/%D0%A0%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F_1_1.png"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Ветеран PRO: програми підтримки від громад в одному місці",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/veteran-pro-programi-pidtrimki-vid-gromad-v-odnomu-mistsi-2",
+      "published_at": "2026-09-24T09:44",
+      "image_url": "https://mva.gov.ua/media/1/735088692_4391566334443694_4834187196478284120_n.jpg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "До 8 тисяч доларів за уникнення мобілізації: ДБР викрило військовослужбовця на Миколаївщині",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/do-8-tisyach-dolariv-za-uniknennya-mobilizacii-dbr-vikrilo-vijskovosluzhbovcya-na-mikolaivshhini",
+      "published_at": "2026-09-24",
+      "image_url": null
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "ДБР викрило прикордонника, який за гроші організовував незаконний виїзд до Румунії",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/dbr-vikrilo-prikordonnika-yakij-za-groshi-organizovuvav-nezakonnij-viizd-do-rumunii",
+      "published_at": "2026-09-24",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Освітні можливості для ветеранів, ветеранок та членів їхніх родин",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/osvitni-mozhlivosti-dlya-veteraniv-veteranok-ta-chleniv-ihnih-rodin",
+      "published_at": "2026-09-23T16:44",
+      "image_url": "https://mva.gov.ua/media/1/790993643_2894135857629719_6236423670132408453_n.jpg"
+    },
+    {
+      "source": "nabu",
+      "source_name": "НАБУ",
+      "title": "Мільйон доларів за безперешкодне постачання дронів: нові підозри",
+      "summary": null,
+      "url": "https://nabu.gov.ua/news/mil-yion-dolariv-za-bezpereshkodne-postachannia-droniv-novi-pidozry/",
+      "published_at": "2026-09-23T14:30",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Міноборони надало рекомендації для оформлення посвідок на проживання іноземним військовим",
+      "summary": "Міністерство оборони підготувало методичні рекомендації для військових частин, щоб спростити оформлення посвідок на тимчасове проживання іноземцям та особам без громадянства, які служать за контрактом.Документ визначає послідовність дій для командирів і відповідальних посадових осіб: від перевірки…",
+      "url": "https://www.kmu.gov.ua/news/minoborony-nadalo-rekomendatsii-dlia-oformlennia-posvidok-na-prozhyvannia-inozemnym-viiskovym",
+      "published_at": "2026-09-23T13:41",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Українські розробники протезів зможуть отримати до 8 млн грн грантової підтримки",
+      "summary": "Український фонд стартапів та Brave1 за підтримки Міністерства цифрової трансформації України та Міністерства соціальної політики, сім’ї та єдності України запускають грантову програму «Інноваційне протезування».Максимальний розмір гранту для одного розробника становить 8 млн грн. Обсяг…",
+      "url": "https://www.kmu.gov.ua/news/ukrainski-rozrobnyky-proteziv-zmozhut-otrymaty-do-8-mln-hrn-hrantovoi-pidtrymky",
+      "published_at": "2026-09-23T13:34",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Від концепції до чітких норм: науковці-правники долучилися до розробки кодексу про ветеранську політику",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/vid-kontseptsii-do-chitkih-norm-naukovtsi-pravniki-doluchilisya-do-rozrobki-kodeksu-pro-veteransku-politiku",
+      "published_at": "2026-09-23T13:21",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-23_at_12.12.38__3_.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Компенсація вартості автоцивілки для ветеранів і ветеранок: як отримати відшкодування",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/kompensatsiya-vartosti-avtotsivilki-dlya-veteraniv-i-veteranok-yak-otrimati-vidshkoduvannya",
+      "published_at": "2026-09-23T11:44",
+      "image_url": "https://mva.gov.ua/media/1/%D0%90%D0%B2%D1%82%D0%BE%D1%86%D0%B8%D0%B2%D1%96%D0%BB%D0%BA%D0%B0.jpg_1.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Міноборони: Понад 500 підрозділів Сил оборони користуються DOT-Chain Defence",
+      "summary": "Вже понад 500 підрозділів мають доступ до DOT-Chain Defence – онлайн-магазину зброї, який розвиває Агенція оборонних закупівель ДОТ Міністерства оборони України.Загалом за більш ніж рік роботи через DOT-Chain Defence Сили оборони вже отримали понад 1,3 млн дронів та інших засобів на 85 млрд грн як…",
+      "url": "https://www.kmu.gov.ua/news/minoborony-ponad-500-pidrozdiliv-syl-oborony-korystuiutsia-dot-chain-defence",
+      "published_at": "2026-09-23T11:19",
+      "image_url": null
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "На Закарпатті ДБР повідомило про підозру військовослужбовцю групи реагування, який стріляв у людей після перевірки документів (ЛЬВІВ)",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/na-zakarpatti-dbr-povidomilo-pro-pidozru-vijskovosluzhbovcyu-grupi-reaguvannya-yakij-strilyav-u-lyudej-pislya-perevirki-dokumentiv",
+      "published_at": "2026-09-23",
+      "image_url": null
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Боєприпаси в авто, втрачений пістолет і продаж автоматів: ДБР повідомило про підозру трьом військовим",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/boepripasi-v-avto-vtrachenij-pistolet-i-prodazh-avtomativ-dbr-povidomilo-pro-pidozru-trom-vijskovim",
+      "published_at": "2026-09-23",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "МОЗ: У Львівському обласному госпіталі ветеранів відкрили оновлене відділення інтенсивної терапії",
+      "summary": "У Львівському обласному госпіталі ветеранів війн та репресованих імені Юрія Липи у Винниках відкрили оновлене відділення анестезіології та інтенсивної терапії. В межах ремонту тут облаштували 27 реанімаційних ліжко-місць, встановили сучасне медичне обладнання та створили умови для надання допомоги…",
+      "url": "https://www.kmu.gov.ua/news/moz-u-lvivskomu-oblasnomu-hospitali-veteraniv-vidkryly-onovlene-viddilennia-intensyvnoi-terapii",
+      "published_at": "2026-09-22T18:01",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Україна та ЄС працюють над прискоренням фінансування критичних потреб Сил оборони",
+      "summary": "Міністр оборони України Євгеній Хмара провів телефонну розмову з Європейським комісаром з питань оборони та космосу Андрюсом Кубілюсом.Серед ключових тем переговорів – прискорення фінансування критичних потреб Сил оборони України.Закупівля ППО за кошти Ukraine Support LoanОчільник Міноборони…",
+      "url": "https://www.kmu.gov.ua/news/ukraina-ta-ies-pratsiuiut-nad-pryskorenniam-finansuvannia-krytychnykh-potreb-syl-oborony",
+      "published_at": "2026-09-22T17:31",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Як пройти безкоштовне навчання водінню на адаптованих (переобладнаних) авто: покрокова інструкція",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/yak-proyti-bezkoshtovne-navchannya-vodinnu-na-adaptovanih-pereobladnanih-avto-pokrokova-instruktsiya",
+      "published_at": "2026-09-22T17:25",
+      "image_url": "https://mva.gov.ua/media/1/%D0%B0%D0%B2%D1%82%D0%BE%D1%88%D0%BA%D0%BE%D0%BB%D0%B0.jpg__2__1.jpeg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "Комітет з питань економічного розвитку погодив тимчасовий виняток у закупівлях для спортивних змагань ветеранів війни",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/news_kom/275565.html",
+      "published_at": "2026-09-22T17:07",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Мінветеранів активізувало розробку кодексу про ветеранську політику",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/minveteraniv-aktivizuvalo-rozrobku-kodeksu-pro-veteransku-politiku",
+      "published_at": "2026-09-22T16:39",
+      "image_url": "https://mva.gov.ua/media/1/DSC05159.jpg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Які послуги можна отримати в «єдиних ветеранських вікнах» у ЦНАПах",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/yaki-poslugi-mozhna-otrimati-v-edinih-veteranskih-viknah-u-tsnapah",
+      "published_at": "2026-09-22T11:12",
+      "image_url": "https://mva.gov.ua/media/1/_%D0%84%D0%B4%D0%B8%D0%BD%D0%B5_%D0%B2%D1%96%D0%BA%D0%BD%D0%BE_.jpg_2.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Ветеран PRO — єдиний цифровий простір для ветеранів, ветеранок та їхніх родин",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/veteran-pro--ediniy-tsifroviy-prostir-dlya-veteraniv-veteranok-ta-ihnih-rodin",
+      "published_at": "2026-09-22T09:34",
+      "image_url": "https://mva.gov.ua/media/1/%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D0%BD_%D0%BF%D1%80%D0%BE.jpg__2__1.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Вісім компаній відібрано до Skill Partnerships: партнерства можуть мобілізувати до 1,6 млн євро інвестицій у розвиток навичок",
+      "summary": "Один із ключових викликів українського ринку праці сьогодні — невідповідність між навичками людей і потребами роботодавців. Бізнесу потрібні фахівці з конкретними сучасними компетенціями, водночас система підготовки та перенавчання не завжди встигає за змінами технологій і потребами економіки.Тому…",
+      "url": "https://www.kmu.gov.ua/news/visim-kompanii-vidibrano-do-skill-partnerships-partnerstva-mozhut-mobilizuvaty-do-16-mln-ievro-investytsii-u-rozvytok-navychok",
+      "published_at": "2026-09-21T20:00",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "єОселя: за тиждень 170 українських родин отримали доступну іпотеку",
+      "summary": "За минулий тиждень за програмою доступних кредитів єОселя українці отримали 170 нових кредитів на суму 377,3 млн грн. З них кредити під 3% отримали:37 ветеранів;32 військовослужбовця та представника сектору безпеки;7 педагогів;7 медиків;4 науковці.Кредити під 7% отримали:50 українців без власного…",
+      "url": "https://www.kmu.gov.ua/news/yeoselia-za-tyzhden-170-ukrainskykh-rodyn-otrymaly-dostupnu-ipoteku",
+      "published_at": "2026-09-21T16:48",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Міноборони: Змінити підставу чинної відстрочки тепер можна через ЦНАП",
+      "summary": "Військовозобов’язані, які мають чинну відстрочку й отримали іншу підставу для її надання, тепер можуть переоформити її через ЦНАП. На час розгляду заяви попередня відстрочка залишається чинною.Для військовозобов’язаних – це можливість змінити підставу відстрочки за зрозумілою процедурою. Для…",
+      "url": "https://www.kmu.gov.ua/news/minoborony-zminyty-pidstavu-chynnoi-vidstrochky-teper-mozhna-cherez-tsnap",
+      "published_at": "2026-09-21T15:50",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Як ветеранам й ветеранкам скористатися безоплатною психологічною допомогою",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/yak-veteranam-y-veterankam-skoristatisya-bezoplatnou-psihologichnou-dopomogou-6",
+      "published_at": "2026-09-21T14:42",
+      "image_url": "https://mva.gov.ua/media/1/775419814_2857509151335804_8578824846301731133_n__1_.jpg"
+    },
+    {
+      "source": "rada",
+      "source_name": "Верховна Рада",
+      "title": "\"Не просто грошова виплата, а послуга та інфраструктура\": Голова Комітету з питань соціальної політики та захисту прав ветеранів Галина Третьякова - про нову систему підтримки родин з дітьми та дорослими з інвалідністю",
+      "summary": null,
+      "url": "https://www.rada.gov.ua/news/news_kom/275517.html",
+      "published_at": "2026-09-21T12:04",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Як ветеранам й ветеранкам знайти фахівця із супроводу",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/yak-veteranam-y-veterankam-znayti-fahivtsya-iz-suprovodu-2",
+      "published_at": "2026-09-21T11:20",
+      "image_url": "https://mva.gov.ua/media/1/768310233_4509796762621620_4751411333462121156_n.jpg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "У Львові визначили переможців Кубку Чемпіонів з петанку серед ветеранів 2026 року",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/u-lvovi-viznachili-peremozhtsiv-kubku-chempioniv-z-petanku-sered-veteraniv-2026-roku",
+      "published_at": "2026-09-21T11:09",
+      "image_url": "https://mva.gov.ua/media/1/IMG_8434.JPG"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Інвестиції у ветеранів й ветеранок — це інвестиції у людський капітал України та безпечне європейське майбутнє",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/investitsii-u-veteraniv-y-veteranok--tse-investitsii-u-ludskiy-kapital-ukraini-ta-bezpechne-evropeyske-maybutne",
+      "published_at": "2026-09-21T10:09",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-21_at_09.16.42.jpeg"
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Понад 2 млн грн збитків на військових закупівлях: ДБР викрило два випадки службової недбалості",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/ponad-2-mln-grn-zbitkiv-na-vijskovih-zakupivlyah-dbr-vikrilo-dva-vipadki-sluzhbovoi-nedbalosti",
+      "published_at": "2026-09-21",
+      "image_url": null
+    },
+    {
+      "source": "dbr",
+      "source_name": "ДБР",
+      "title": "Недостовірні відомості на понад 4,5 млн грн: на Львівщині за матеріалами ДБР судитимуть експосадовця ТЦК",
+      "summary": null,
+      "url": "https://dbr.gov.ua/news/nedostovirni-vidomosti-na-ponad-4-5-mln-grn-na-lvivshhini-za-materialami-dbr-suditimut-eksposadovcya-tck",
+      "published_at": "2026-09-21",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Сергій Марченко та Крісталіна Георгієва обговорили виконання реформ, мобілізацію внутрішніх ресурсів та фінансові потреби України на 2027 рік",
+      "summary": "Міністр фінансів України Сергій Марченко провів зустріч із директоркою-розпорядницею Міжнародного валютного фонду Крісталіною Георгієвою на полях неформальної зустрічі міністрів економіки та фінансів ЄС (ECOFIN) у Дубліні.Ключовими темами розмови стали подальша реалізація програми розширеного…",
+      "url": "https://www.kmu.gov.ua/news/serhii-marchenko-ta-kristalina-heorhiieva-obhovoryly-vykonannia-reform-mobilizatsiiu-vnutrishnikh-resursiv-ta-finansovi-potreby-ukrainy-na-2027-rik",
+      "published_at": "2026-09-19T18:20",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Уряд підтримав створення Центру рекрутингу іноземців у складі Національної гвардії",
+      "summary": "Уряд підтримав створення у складі Національної гвардії України Центру рекрутингу іноземців та осіб без громадянства. Про це повідомив Прем’єр-міністр України Сергій Корецький.Центр координуватиме набір іноземних добровольців на військову службу за контрактом та супроводжуватиме кандидатів на всіх…",
+      "url": "https://www.kmu.gov.ua/news/uriad-pidtrymav-stvorennia-tsentru-rekrutynhu-inozemtsiv-u-skladi-natsionalnoi-hvardii",
+      "published_at": "2026-09-18T18:03",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Знайомимо з командою Мінветеранів та розповідаємо про ключові напрямки роботи заступників Міністра у справах ветеранів України",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/znayomimo-z-komandou-minveteraniv-ta-rozpovidaemo-pro-kluchovi-napryamki-roboti-zastupnikiv-ministra-u-spravah-veteraniv-ukraini",
+      "published_at": "2026-09-18T16:51",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-18_at_16.54.09.jpeg"
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "«Нарешті, ми вас дочекалися»: як ветеран Артем Родиков відновлює меблеве виробництво у Чернігові",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/nareshti-mi-vas-dochekalisya-yak-veteran-artem-rodikov-vidnovlue-mebleve-virobnitstvo-u-chernigovi",
+      "published_at": "2026-09-18T15:07",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-18_at_14.25.22.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Кількість учасників бойових дій, які знайшли роботу за сприяння Служби зайнятості, зросла на більш як 30%",
+      "summary": "Впродовж 8 місяців цього року послуги Служби зайнятості отримували майже 13 тисяч учасників бойових дій. З них профорієнтаційними послугами охоплено більше 10 тисяч захисників та захисниць. Кількість клієнтів, які знайшли роботу, склала 3,3 тисячі, що на 30% більше, ніж за аналогічний період…",
+      "url": "https://www.kmu.gov.ua/news/kilkist-uchasnykiv-boiovykh-dii-iaki-znaishly-robotu-za-spryiannia-sluzhby-zainiatosti-zrosla-na-bilsh-iak-30",
+      "published_at": "2026-09-18T14:50",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Ветеранська література. Валерій Пікуленко «Записки на колінці»",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/veteranska-literatura-40",
+      "published_at": "2026-09-18T14:02",
+      "image_url": "https://mva.gov.ua/media/1/%D0%92%D1%96%D0%B8%CC%86%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg__2__4.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Міноборони започаткувало формат регулярних зустрічей з родинами зниклих безвісти військових",
+      "summary": "Міністерство оборони України започаткувало регулярний формат зустрічей із координаторами родин загиблих, зниклих безвісти та військовополонених військовослужбовців.Мета такого формату – підтримувати прямий діалог з родинами для збору проблематики та напрацювання рішень.Перша зустріч заступника…",
+      "url": "https://www.kmu.gov.ua/news/minoborony-zapochatkuvalo-format-rehuliarnykh-zustrichei-z-rodynamy-znyklykh-bezvisty-viiskovykh",
+      "published_at": "2026-09-18T13:34",
+      "image_url": null
+    },
+    {
+      "source": "mva",
+      "source_name": "Мінветеранів",
+      "title": "Триває 19-ий грантовий конкурс «ВАРТО: КРОК ВПЕРЕД»!",
+      "summary": null,
+      "url": "https://mva.gov.ua/prescenter/category/86-novini/trivae-19-iy-grantoviy-konkurs-varto-krok-vpered",
+      "published_at": "2026-09-18T11:32",
+      "image_url": "https://mva.gov.ua/media/1/WhatsApp_Image_2026-09-18_at_11.24.48.jpeg"
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "МОЗ, МВС та Міноборони посилюють координацію на всіх етапах ідентифікації загиблих",
+      "summary": "Прем’єр-міністр України Сергій Корецький провів міжвідомчу нараду за участю Міністерства охорони здоров’я, Міністерства внутрішніх справ та Міністерства оборони щодо удосконалення процесів ідентифікації тіл репатрійованих військових та цивільних осіб.Ідентифікація — це комплексний процес, до різних…",
+      "url": "https://www.kmu.gov.ua/news/moz-mvs-ta-minoborony-posyliuiut-koordynatsiiu-na-vsikh-etapakh-identyfikatsii-zahyblykh",
+      "published_at": "2026-09-18T10:43",
+      "image_url": null
+    },
+    {
+      "source": "kmu",
+      "source_name": "Кабмін",
+      "title": "Оперативна інформація ДСНС щодо ліквідації наслідків ведення бойових дій російською федерацією та роботи піротехнічних підрозділів",
+      "summary": "Підрозділи ДСНС протягом доби здійснили 228 виїздів на ліквідацію наслідків обстрілів окупантами населених пунктів та об’єктів інфраструктури, ліквідували 62 пожежі, надали психологічну допомогу 17 людям.З початку війни здійснено 285 тис. 787 виїздів, ліквідовано 40 тис. 470 пожеж, врятовано 8 тис…",
+      "url": "https://www.kmu.gov.ua/news/18092026operatyvna-informatsiia-dsns-shchodo-likvidatsii-naslidkiv-vedennia-boiovykh-dii-rosiiskoiu-federatsiieiu-ta-roboty-pirotekhnichnykh-pidrozdiliv",
+      "published_at": "2026-09-18T09:54",
+      "image_url": null
+    }
+  ]
+}
